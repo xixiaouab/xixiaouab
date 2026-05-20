@@ -1,0 +1,11 @@
+<svg width="420" height="140" viewBox="0 0 420 140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Visual Instance-aware Prompt Tuning repository</title>
+  <desc id="desc">ACM MM 2025 Visual Instance-aware Prompt Tuning</desc>
+  <rect x="1" y="1" width="418" height="138" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="24" y="37" fill="#0969da" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Visual-Instance-aware-Prompt-Tuning</text>
+  <text x="24" y="66" fill="#57606a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">ACM MM 2025 official PyTorch implementation.</text>
+  <text x="24" y="86" fill="#57606a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Instance-aware prompt tuning for large vision models.</text>
+  <circle cx="31" cy="116" r="6" fill="#3572A5"/>
+  <text x="45" y="120" fill="#57606a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">Python</text>
+  <text x="112" y="120" fill="#57606a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">star 1</text>
+</svg>

@@ -34,10 +34,10 @@ I build efficient and reliable AI systems across language models, vision-languag
 <div align="center">
 
 <a href="https://github.com/xixiaouab">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xixiaouab&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true" alt="Xi Xiao's GitHub stats" />
+  <img height="165" src="./assets/profile-stats.svg" alt="Xi Xiao's GitHub stats" />
 </a>
 <a href="https://github.com/xixiaouab">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xixiaouab&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="./assets/research-stack.svg" alt="Research and coding stack" />
 </a>
 
 </div>
@@ -47,16 +47,16 @@ I build efficient and reliable AI systems across language models, vision-languag
 <div align="center">
 
 <a href="https://github.com/xixiaouab/StructLoRA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xixiaouab&repo=StructLoRA&hide_border=true" alt="StructLoRA repository card" />
+  <img width="420" src="./assets/repo-structlora.svg" alt="StructLoRA repository card" />
 </a>
 <a href="https://github.com/xixiaouab/Visual-Instance-aware-Prompt-Tuning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xixiaouab&repo=Visual-Instance-aware-Prompt-Tuning&hide_border=true" alt="Visual Instance-aware Prompt Tuning repository card" />
+  <img width="420" src="./assets/repo-vipt.svg" alt="Visual Instance-aware Prompt Tuning repository card" />
 </a>
 <a href="https://github.com/xixiaouab/PROBE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xixiaouab&repo=PROBE&hide_border=true" alt="PROBE repository card" />
+  <img width="420" src="./assets/repo-probe.svg" alt="PROBE repository card" />
 </a>
 <a href="https://github.com/xixiaouab/xixiaouab.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xixiaouab&repo=xixiaouab.github.io&hide_border=true" alt="Homepage repository card" />
+  <img width="420" src="./assets/repo-homepage.svg" alt="Homepage repository card" />
 </a>
 
 </div>
@@ -75,4 +75,3 @@ Scientific and Medical AI      ###############
 - Website: [xixiaouab.github.io](https://xixiaouab.github.io/)
 - Email: `xxiao [at] uab (dot) edu`
 - Scholar: [Google Scholar](https://scholar.google.com/citations?user=Q4DnRVgAAAAJ&hl=en)
-

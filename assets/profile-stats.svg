@@ -1,0 +1,26 @@
+<svg width="520" height="190" viewBox="0 0 520 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Xi Xiao GitHub stats</title>
+  <desc id="desc">Static GitHub profile statistics card</desc>
+  <rect x="1" y="1" width="518" height="188" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="26" y="38" fill="#0a5c36" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700">Xi Xiao&apos;s GitHub Snapshot</text>
+  <text x="26" y="68" fill="#57606a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Research code, project pages, and reproducible AI systems</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <rect x="26" y="92" width="105" height="58" rx="8" fill="#f6f8fa" stroke="#d8dee4"/>
+    <text x="43" y="117" fill="#24292f" font-size="22" font-weight="700">14</text>
+    <text x="43" y="139" fill="#57606a" font-size="12">Public repos</text>
+    <rect x="145" y="92" width="105" height="58" rx="8" fill="#f6f8fa" stroke="#d8dee4"/>
+    <text x="162" y="117" fill="#24292f" font-size="22" font-weight="700">17</text>
+    <text x="162" y="139" fill="#57606a" font-size="12">Stars</text>
+    <rect x="264" y="92" width="105" height="58" rx="8" fill="#f6f8fa" stroke="#d8dee4"/>
+    <text x="281" y="117" fill="#24292f" font-size="22" font-weight="700">84</text>
+    <text x="281" y="139" fill="#57606a" font-size="12">Contributions</text>
+    <rect x="383" y="92" width="105" height="58" rx="8" fill="#f6f8fa" stroke="#d8dee4"/>
+    <text x="400" y="117" fill="#24292f" font-size="22" font-weight="700">2</text>
+    <text x="400" y="139" fill="#57606a" font-size="12">Followers</text>
+  </g>
+  <path d="M26 168H494" stroke="#d8dee4"/>
+  <circle cx="39" cy="168" r="4" fill="#0a5c36"/>
+  <circle cx="67" cy="168" r="4" fill="#2da44e"/>
+  <circle cx="95" cy="168" r="4" fill="#bf8700"/>
+  <text x="113" y="172" fill="#57606a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">Language models · vision-language AI · efficient adaptation</text>
+</svg>

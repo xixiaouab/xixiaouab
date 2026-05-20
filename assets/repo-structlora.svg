@@ -1,0 +1,11 @@
+<svg width="420" height="140" viewBox="0 0 420 140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">StructLoRA repository</title>
+  <desc id="desc">ACL 2026 StructLoRA official implementation</desc>
+  <rect x="1" y="1" width="418" height="138" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="24" y="37" fill="#0969da" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">StructLoRA</text>
+  <text x="24" y="66" fill="#57606a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">ACL 2026 official implementation</text>
+  <text x="24" y="86" fill="#57606a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">Structured and task-aware low-rank adaptation.</text>
+  <circle cx="31" cy="116" r="6" fill="#e34c26"/>
+  <text x="45" y="120" fill="#57606a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">HTML</text>
+  <text x="104" y="120" fill="#57606a" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">star 2</text>
+</svg>

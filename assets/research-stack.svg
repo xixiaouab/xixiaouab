@@ -1,0 +1,20 @@
+<svg width="420" height="190" viewBox="0 0 420 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Research and coding stack</title>
+  <desc id="desc">Research focus areas and implementation stack</desc>
+  <rect x="1" y="1" width="418" height="188" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="24" y="38" fill="#0a5c36" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="700">Research Stack</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13">
+    <text x="24" y="74" fill="#24292f" font-weight="600">MLLM Agents &amp; Reasoning</text>
+    <rect x="205" y="62" width="170" height="10" rx="5" fill="#d8dee4"/>
+    <rect x="205" y="62" width="170" height="10" rx="5" fill="#0a5c36"/>
+    <text x="24" y="104" fill="#24292f" font-weight="600">Efficient Adaptation</text>
+    <rect x="205" y="92" width="170" height="10" rx="5" fill="#d8dee4"/>
+    <rect x="205" y="92" width="150" height="10" rx="5" fill="#2da44e"/>
+    <text x="24" y="134" fill="#24292f" font-weight="600">Vision-Language AI</text>
+    <rect x="205" y="122" width="170" height="10" rx="5" fill="#d8dee4"/>
+    <rect x="205" y="122" width="134" height="10" rx="5" fill="#0969da"/>
+    <text x="24" y="164" fill="#24292f" font-weight="600">Scientific / Medical AI</text>
+    <rect x="205" y="152" width="170" height="10" rx="5" fill="#d8dee4"/>
+    <rect x="205" y="152" width="124" height="10" rx="5" fill="#bf8700"/>
+  </g>
+</svg>
