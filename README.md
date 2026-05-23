@@ -3,7 +3,7 @@
 # Hi, I'm Xi Xiao
 
 Ph.D. Student in Computer Science @ UAB  
-Student Researcher @ Oak Ridge National Laboratory · Applied Scientist Intern @ AWS AI Labs
+Student Researcher @ Oak Ridge National Laboratory · Applied Scientist Intern @ Amazon AGI
 
 [![Homepage](https://img.shields.io/badge/Homepage-xixiaouab.github.io-0A5C36?style=for-the-badge&logo=githubpages&logoColor=white)](https://xixiaouab.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Xi%20Xiao-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Q4DnRVgAAAAJ&hl=en)
