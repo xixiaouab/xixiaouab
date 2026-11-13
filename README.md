@@ -1,93 +1,36 @@
-<a id="readme-top"></a>
-
-<div align="center">
-
 # Xi Xiao
 
-**Efficient multimodal AI, agentic reasoning, and foundation models.**
+**Final-year Ph.D. Candidate · Computer Science · University of Alabama at Birmingham**
 
-[![Homepage](https://img.shields.io/badge/Homepage-xixiaouab.github.io-123a63?style=flat-square&logo=githubpages&logoColor=white)](https://xixiaouab.github.io/)
-[![Google Scholar](https://img.shields.io/badge/Scholar-Xi%20Xiao-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Q4DnRVgAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Xi%20Xiao-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xi-xiao-4800272a5)
-[![Email](https://img.shields.io/badge/Email-xxiao%20at%20uab.edu-5f6f82?style=flat-square&logo=gmail&logoColor=white)](mailto:xxiao@uab.edu)
+[Homepage](https://xixiaouab.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=Q4DnRVgAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/xi-xiao-4800272a5) · [Email](mailto:xxiao@uab.edu)
 
-[Research](#research) &nbsp;•&nbsp;
-[Projects](#selected-projects) &nbsp;•&nbsp;
-[GitHub](#github-snapshot) &nbsp;•&nbsp;
-[Contact](#contact)
+I study **foundation model post-training, multimodal reasoning, and agentic reinforcement learning**. My current interests include visual grounding, adaptive reasoning, agent memory, harness engineering, and recursive self-improvement. At UAB, I am co-advised by [Tianyang Wang](https://wangt0716.github.io/index.html) and [Min Xu](https://xulabs.github.io/min-xu/).
 
-</div>
+## Research experience
 
-> [!NOTE]
-> I am a Computer Science Ph.D. student at the University of Alabama at Birmingham, currently working as an Applied Scientist Intern at Amazon AGI. My research sits at the intersection of efficient adaptation, vision-language systems, MLLM agents, and scientific AI.
+- **Oak Ridge National Laboratory · Research Scientist Intern** — Design and train an AI4Weather foundation model for the [Genesis Mission](https://www.ornl.gov/genesis).
+- **Amazon AGI Foundations · Applied Scientist Intern** — Post-trained a **200B-parameter frontier MLLM** for multimodal and agentic reasoning using **SFT and reinforcement learning across more than 100 compute nodes**.
 
-## Research
+## Selected research
 
-| Direction | Selected Work |
-| --- | --- |
-| Agentic AI and reasoning | [Agent Harness Engineering](https://picrew.github.io/LLM-Harness/), VIGIL, FORGE |
-| Efficient model adaptation | [StructLoRA](https://github.com/xixiaouab/StructLoRA), Sensitivity-LoRA, CTR-LoRA |
-| Vision-language systems | Prompt-based adaptation survey, RoadBench, Visual Instance-Aware Prompt Tuning |
-| Scientific and medical AI | ORBIT-2, fMRI-LM, KG-SAM, medical image understanding |
+| Project | Research focus | Resources |
+| --- | --- | --- |
+| **ReaLVR** | Grounding latent visual reasoning in visual evidence | [Repository](https://github.com/xixiaouab/ReaLVR-code) · [Paper](https://arxiv.org/abs/2609.34563) · [Project](https://xixiaouab.github.io/projects/ReaLVR/) |
+| **FORGE** | Adaptive evidence routing for frozen LLM agents | [Repository](https://github.com/xixiaouab/FORGE-code) · [Paper](https://arxiv.org/abs/2609.34358) · [Project](https://xixiaouab.github.io/projects/FORGE/) |
+| **VIGIL** | Counterfactual visual alignment for MLLM reasoning | [Repository](https://github.com/xixiaouab/VIGIL) · [Paper](https://arxiv.org/abs/2606.26387) · [Project](https://xixiaouab.github.io/VIGIL/) |
+| **StructLoRA** | Structured, task-aware low-rank model adaptation | [Repository](https://github.com/xixiaouab/StructLoRA) · [Paper](https://arxiv.org/abs/2603.14228) · [Project](https://xixiaouab.github.io/StructLoRA/) |
+| **Cascaded Semantics** | Semantic guidance for vision foundation model adaptation | [Repository](https://github.com/xixiaouab/Cascaded-Semantics) · [Paper](https://openreview.net/forum?id=SSsobNZJPO) · [Project](https://xixiaouab.github.io/Cascaded-Semantics/) |
+| **Prompt Fusion Discovery** | Layer-specific prompt fusion through differentiable search | [Repository](https://github.com/xixiaouab/Prompt-Fusion-Discovery) · [Paper](https://arxiv.org/abs/2606.26379) · [Project](https://xixiaouab.github.io/Prompt-Fusion-Discovery/) |
 
-## Selected Projects
+See my [homepage](https://xixiaouab.github.io/#Publications) for the full publication list and [background](https://xixiaouab.github.io/#CV).
 
-<div align="center">
+## Recognition
 
-<a href="https://github.com/xixiaouab/StructLoRA">
-  <img width="420" src="./assets/repo-structlora.svg" alt="StructLoRA repository card" />
-</a>
-<a href="https://github.com/xixiaouab/Visual-Instance-aware-Prompt-Tuning">
-  <img width="420" src="./assets/repo-vipt.svg" alt="Visual Instance-aware Prompt Tuning repository card" />
-</a>
-<a href="https://github.com/xixiaouab/PROBE">
-  <img width="420" src="./assets/repo-probe.svg" alt="PROBE repository card" />
-</a>
-<a href="https://github.com/xixiaouab/xixiaouab.github.io">
-  <img width="420" src="./assets/repo-homepage.svg" alt="Academic homepage repository card" />
-</a>
+- **SC 2025 Best Paper Award** and **ACM Gordon Bell Prize Finalist (team)** — ORBIT-2.
+- **CVPR 2026 Outstanding Reviewer** and **ICML 2026 Silver Reviewer**.
 
-</div>
+## Opportunities and contact
 
-## GitHub Snapshot
+I am seeking **Summer 2027 research internships** in multimodal reasoning, agentic AI, and foundation model post-training.
 
-<div align="center">
-
-<a href="https://github.com/xixiaouab">
-  <img height="165" src="./assets/profile-stats.svg" alt="Xi Xiao's GitHub activity summary" />
-</a>
-<a href="https://github.com/xixiaouab">
-  <img height="165" src="./assets/research-stack.svg" alt="Research stack summary" />
-</a>
-
-</div>
-
-## Current Focus
-
-- Building reliable MLLM and agent systems that reason over tools, context, and visual evidence.
-- Designing efficient adaptation methods for large language and vision-language models.
-- Translating foundation models into real-world scientific, medical, and infrastructure settings.
-
-<details>
-<summary><b>Recent Research Signals</b></summary>
-
-| Venue | Work |
-| --- | --- |
-| ECCV 2026 | VIGIL, Prompt Fusion Discovery, and additional vision-language / forecasting work |
-| ACL 2026 | StructLoRA |
-| ICML 2026 | Dispersion loss for small language models |
-| SC 2025 | ORBIT-2, Best Paper Award |
-
-</details>
-
-## Contact
-
-- Website: [xixiaouab.github.io](https://xixiaouab.github.io/)
-- Email: `xxiao [at] uab [dot] edu`
-- Scholar: [Google Scholar](https://scholar.google.com/citations?user=Q4DnRVgAAAAJ&hl=en)
-
-<div align="center">
-
-<a href="#readme-top">Back to top</a>
-
-</div>
+**Email:** `xxiao [at] uab [dot] edu`
